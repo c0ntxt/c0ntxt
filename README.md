@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c0ntxt
 - 👀 JS, Web, Lua
-- 🌱 Currently working on several Discord bots and FiveM Scripts
+- 🌱 Currently working on ██████████████
 - 📫 Discord: context#0001
 
 
