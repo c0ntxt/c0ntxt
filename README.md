@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c0ntxt
-- 👀 JS, Web, Lua
+- 👀 JS, Python
 - 🌱 Currently working on ██████████████
 - 📫 Discord: context#0001
 
